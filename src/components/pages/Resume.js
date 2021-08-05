@@ -37,7 +37,7 @@ export default function Resume() {
           </div>
 
           <a
-            href="https://docs.google.com/document/d/1R-DpnDTNut-Ggw2FyyneGZS82ZnMdLDkvOzpd-s3ly4/edit?usp=sharing"
+            href="https://docs.google.com/viewer?url=https://docs.google.com/document/d/1R-DpnDTNut-Ggw2FyyneGZS82ZnMdLDkvOzpd-s3ly4/export?format=pdf"
             class="btn btn-primary"
           >
             Download Resume
