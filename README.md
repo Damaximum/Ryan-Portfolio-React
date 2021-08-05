@@ -27,7 +27,7 @@ In order to use this application, visit the [deployed application](https://damax
 ## Screenshot
 
 Screenshot of the Portfolio:
-![Alt text](./screenshots/PortfolioSSC.png?raw=true "React Portfolio")
+![React Portfolio](./screenshot/PortfolioSSC.png?raw=true "React Portfolio")
 
 ## License
 
