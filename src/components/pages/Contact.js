@@ -38,7 +38,10 @@ export default function Contact() {
       <div class="justify-content-center" id="contact-form">
         <div class="mt-5">
           <h4 htmlFor="name">Phone Number</h4>
-          <h6>213) 392 - 2227</h6>
+          <h6>
+            <br />
+            (213) 392 - 2227
+          </h6>
         </div>
         <div class="mt-5">
           <h4 htmlFor="email">
